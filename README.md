@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Bhumika</h1>
 
 <h3 align="center">
@@ -274,4 +273,3 @@ Strong in
 <i>"Code. Learn. Build. Repeat. 🚀"</i>
 
 </p>
-```
