@@ -1,181 +1,277 @@
+```md
 <h1 align="center">Hi 👋, I'm Bhumika</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | AI & Data Enthusiast</h3>
+
+<h3 align="center">
+Full-Stack Developer • MERN Stack • AI & Data Science Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Bhumikaj13">
-    <img src="https://img.shields.io/github/followers/Bhumikaj13?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhumika-8563842b1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:bhumikajaswal2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Bhumikaj13">
+<img src="https://img.shields.io/github/followers/Bhumikaj13?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhumika-8563842b1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bhumikajaswal2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/bhumikaJaswall/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Science Undergraduate passionate about building scalable web applications and solving real-world problems.
+🎓 Computer Science Undergraduate passionate about creating scalable web applications and intelligent software solutions.
 
-💻 Skilled in **MERN Stack Development, AI, Data Analysis, SQL, and REST APIs**.
+💡 I enjoy transforming ideas into real-world products using modern web technologies and AI.
 
-📊 Interested in Data Science, Machine Learning, and Backend Engineering.
+🚀 Skilled in:
 
-🧩 Solved **100+ LeetCode Problems** while strengthening Data Structures & Algorithms.
+- MERN Stack Development
+- REST API Development
+- SQL & Database Design
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Problem Solving
 
-🌱 Currently exploring **Deep Learning, System Design, and Advanced Backend Development.**
+📚 Solved **100+ LeetCode Problems** while strengthening Data Structures & Algorithms.
+
+🌱 Currently Learning
+
+- Advanced Backend Development
+- System Design
+- Deep Learning
+- Cloud Technologies
+
+🎯 Goal
+
+Build impactful software that combines AI with modern web technologies to solve real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Languages
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
 
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
 
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+</p>
 
-### 🤖 AI & Data Science
-- TensorFlow
-- Keras
-- Deep Learning
-- Machine Learning Basics
-- NLP
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+## AI & Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
 - Pandas
 - NumPy
+- Machine Learning
+- Deep Learning
+- NLP
+- Keras
 - Data Visualization
 
-### 🛠 Tools
-- Git & GitHub
-- REST APIs
-- Chart.js
-- VS Code
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🛒 MERN E-Commerce Platform
 
-✔ User Authentication
+🛍️ Complete shopping application with secure authentication, product management, cart functionality, order handling, and responsive UI.
 
-✔ Product Management
+**Tech Used**
 
-✔ REST APIs
-
-✔ MongoDB Integration
-
-✔ Responsive UI
-
-**Tech Stack:** React • Node.js • Express • MongoDB
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
-## 💰 AI-Powered Expense Tracker Dashboard
+## 💰 AI Expense Tracker Dashboard
 
-✔ Income & Expense Tracking
+A modern finance dashboard with:
 
-✔ Interactive Charts
+- Income & Expense Tracking
+- Analytics Dashboard
+- Interactive Charts
+- Secure Login
+- Financial Insights
 
-✔ Analytics Dashboard
+**Tech Used**
 
-✔ Secure Authentication
-
-✔ Real-Time Financial Insights
-
-**Tech Stack:** MERN • MongoDB • Chart.js
-
----
-
-## 🏦 Advanced Banking Database Management System
-
-✔ Banking Database Design
-
-✔ SQL Joins
-
-✔ Views
-
-✔ Triggers
-
-✔ Stored Procedures
-
-✔ Window Functions
-
-✔ Normalization
-
-**Tech Stack:** MySQL
+`React` `MongoDB` `Express` `Chart.js`
 
 ---
 
-# 📚 Certifications
+## 🏦 Banking Database Management System
+
+A university-level SQL project implementing
+
+- Database Design
+- Triggers
+- Views
+- Stored Procedures
+- Window Functions
+- SQL Optimization
+- Normalization
+
+**Tech Used**
+
+`MySQL`
+
+---
+
+# 🏆 Certifications
 
 🏅 IBM — Introduction to Deep Learning & Neural Networks with Keras
 
-🏅 IBM — Introduction to NLP and Syntactic Processing
-
-🏅 Deloitte Australia — Data Analytics Job Simulation (Forage)
+🏅 IBM — NLP and Syntactic Processing
 
 🏅 IBM — Enterprise Design Thinking Practitioner
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhumikaj13&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumikaj13&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumikaj13&layout=compact&theme=tokyonight" />
-</p>
+🏅 Deloitte Australia — Data Analytics Job Simulation
 
 ---
 
-# 🧠 Problem Solving
+# 🧩 Problem Solving
 
-💯 Solved **100+ LeetCode Problems**
+💯 **100+ LeetCode Problems Solved**
 
-Strong understanding of:
+Strong in
 
 - Data Structures
 - Algorithms
-- Problem Solving
 - SQL Optimization
+- Object-Oriented Programming
+- Problem Solving
 
 ---
 
-# 📫 Connect With Me
+# 📊 GitHub Analytics
 
-📧 **Email:** bhumikajaswal2005@gmail.com
+<p align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/bhumika-8563842b1
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhumikaj13&show_icons=true&theme=tokyonight"/>
 
-💻 **GitHub:** https://github.com/Bhumikaj13
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumikaj13&theme=tokyonight"/>
 
-🟠 **LeetCode:** https://leetcode.com/u/bhumikaJaswall/
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumikaj13&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bhumikaj13&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumikaj13&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:bhumikajaswal2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhumika-8563842b1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Bhumikaj13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/bhumikaJaswall/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."* 🚀
+<img src="https://komarev.com/ghpvc/?username=Bhumikaj13&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h3>
+
+<p align="center">
+
+<i>"Code. Learn. Build. Repeat. 🚀"</i>
+
+</p>
+```
