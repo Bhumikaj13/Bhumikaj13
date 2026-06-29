@@ -197,17 +197,7 @@ Strong in
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Bhumikaj13&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-
-<img height="170"
 src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumikaj13&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumikaj13&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
