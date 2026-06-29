@@ -194,12 +194,11 @@ Strong in
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumikaj13&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumikaj13&theme=tokyonight&cache_seconds=1800" />
 
-</p>
+</div>
 
 ---
 # 🌐 Connect With Me
