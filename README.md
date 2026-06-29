@@ -196,40 +196,22 @@ Strong in
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhumikaj13&show_icons=true&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Bhumikaj13&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumikaj13&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumikaj13&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumikaj13&layout=compact&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumikaj13&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhumikaj13&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumikaj13&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
